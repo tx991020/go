@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dc93e73-9ca8-4103-bd26-6e3c3a7cad00" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/preview_add.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/bingfa/信号量.go" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/editor.codeinsight.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/role_add.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/admin_list.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/flask_jwt/eee.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/user_list.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/preview_list.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/tag_add.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/moviecol_list.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/admin.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/gobook/正则1.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/tag_list.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/adminloginlog_list.html" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/statistics.main_menu.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/结构.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/comment_list.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/bingfa/poolredis.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm2017.2/options/statistics.toolbar.clicks.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/admin_add.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/匿名字段.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/Gin.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/bingfa/chan2.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/userloginlog_list.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/login.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/static/anim/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/movie_list.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/bingfa/GoSched.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/user_view.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/sync.map.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/bingfa/chan1.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/auth_add.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/home/play.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/输入输出.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/goquery.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/bingfa/chan3.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/bingfa/多处wait.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/movie_add.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/bingfa/生产消费.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/bingfa/线程池.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/try-catch.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/gobook/lanuch.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/role_list.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/LcvSearch/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/LcvSearch/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/oplog_list.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/LcvSearch/search/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kafka/worker.go" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/dlv.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/.idea/webResources.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/bingfa/关闭chan.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/pwd.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/home/search.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/flag.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/bingfa/echo jwt.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/home/404.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Movie/app/templates/admin/auth_list.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/bingfa/concurent.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/bingfa/running.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/bingfa/concu1.go" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/GoglandProjects/gogo/bingfa/waitgroup.go" />
+      <change type="DELETED" beforePath="$USER_HOME$/hugo/content/post/2015-02-20-test-markdown.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/hugo/content/post/2015-02-13-hamlet-monologue.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/post/2015-01-19-soccer/index.html" afterPath="$USER_HOME$/hugo/public/post/2015-01-19-soccer/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/post/index.html" afterPath="$USER_HOME$/hugo/public/post/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/page/index.html" afterPath="$USER_HOME$/hugo/public/page/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/post/2015-01-04-first-post/index.html" afterPath="$USER_HOME$/hugo/public/post/2015-01-04-first-post/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/config.toml" afterPath="$USER_HOME$/hugo/config.toml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/post/2017-03-07-bigimg-sample/index.html" afterPath="$USER_HOME$/hugo/public/post/2017-03-07-bigimg-sample/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/post/2015-02-13-hamlet-monologue/index.html" afterPath="$USER_HOME$/hugo/public/post/2015-02-13-hamlet-monologue/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/post/page/2/index.html" afterPath="$USER_HOME$/hugo/public/post/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/page/2/index.html" afterPath="$USER_HOME$/hugo/public/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/sitemap.xml" afterPath="$USER_HOME$/hugo/public/sitemap.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/tags/code/index.html" afterPath="$USER_HOME$/hugo/public/tags/code/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/post/2015-02-26-flake-it-till-you-make-it/index.html" afterPath="$USER_HOME$/hugo/public/post/2015-02-26-flake-it-till-you-make-it/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/page/about/index.html" afterPath="$USER_HOME$/hugo/public/page/about/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/tags/photoswipe/index.html" afterPath="$USER_HOME$/hugo/public/tags/photoswipe/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/404.html" afterPath="$USER_HOME$/hugo/public/404.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/post/2016-03-08-code-sample/index.html" afterPath="$USER_HOME$/hugo/public/post/2016-03-08-code-sample/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/index.xml" afterPath="$USER_HOME$/hugo/public/index.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/tags/markdown/index.html" afterPath="$USER_HOME$/hugo/public/tags/markdown/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/post/2017-03-20-photoswipe-gallery-sample/index.html" afterPath="$USER_HOME$/hugo/public/post/2017-03-20-photoswipe-gallery-sample/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/tags/index.html" afterPath="$USER_HOME$/hugo/public/tags/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/post/2015-01-27-dear-diary/index.html" afterPath="$USER_HOME$/hugo/public/post/2015-01-27-dear-diary/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/tags/math/index.html" afterPath="$USER_HOME$/hugo/public/tags/math/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/tags/example/index.html" afterPath="$USER_HOME$/hugo/public/tags/example/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/post/2017-03-05-math-sample/index.html" afterPath="$USER_HOME$/hugo/public/post/2017-03-05-math-sample/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/index.html" afterPath="$USER_HOME$/hugo/public/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/post/2015-02-20-test-markdown/index.html" afterPath="$USER_HOME$/hugo/public/post/2015-02-20-test-markdown/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/post/index.xml" afterPath="$USER_HOME$/hugo/public/post/index.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/post/2015-01-15-pirates/index.html" afterPath="$USER_HOME$/hugo/public/post/2015-01-15-pirates/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/hugo/public/tags/bigimg/index.html" afterPath="$USER_HOME$/hugo/public/tags/bigimg/index.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="common.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beego-demo/controllers/common.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mymongo.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beego-demo/models/mymongo/mymongo.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="42" />
+              <folding>
+                <element signature="e#17#74#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../github.com/astaxie/beego/config.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1515">
+              <caret line="114" column="4" lean-forward="false" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mymysql.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beego-demo/models/mymysql/mymysql.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="e#17#132#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="roles_io.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beego-demo/models/roles_io.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="router.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beego-demo/routers/router.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.conf" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/beego-demo/conf/app.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beego-demo/models/common.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="roles.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beego-demo/models/roles.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+              <folding>
+                <marker date="1507384482000" expanded="true" signature="725:791" ph="INSERT INTO roles... " />
+                <marker date="1507384482000" expanded="true" signature="1354:1413" ph="SELECT id, n... roles" />
+                <marker date="1507384482000" expanded="true" signature="4024:4076" ph="UPDATE roles... " />
+                <marker date="1507384482000" expanded="true" signature="4494:4524" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myredis.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beego-demo/models/myredis/myredis.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.9/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/middleware.go" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/loadtml.go" />
+        <option value="$PROJECT_DIR$/req.go" />
+        <option value="$PROJECT_DIR$/bindform.go" />
+        <option value="$PROJECT_DIR$/jwt.go" />
+        <option value="$PROJECT_DIR$/middle.go" />
+        <option value="$PROJECT_DIR$/poolredis.go" />
+        <option value="$PROJECT_DIR$/ttt.go" />
+        <option value="$PROJECT_DIR$/iris.go" />
+        <option value="$PROJECT_DIR$/echo1/echojwt.go" />
+        <option value="$PROJECT_DIR$/irisjwt1.go" />
+        <option value="$PROJECT_DIR$/gin jwt.go" />
+        <option value="$PROJECT_DIR$/ginjwt.go" />
+        <option value="$PROJECT_DIR$/echo1/ginjwt.go" />
+        <option value="$PROJECT_DIR$/adsl.go" />
+        <option value="$PROJECT_DIR$/echo1/irisjwt.go" />
+        <option value="$PROJECT_DIR$/接口.go" />
+        <option value="$PROJECT_DIR$/flaghttp.go" />
+        <option value="$PROJECT_DIR$/pool.go" />
+        <option value="$PROJECT_DIR$/Gdemo.go" />
+        <option value="$PROJECT_DIR$/broker.go" />
+        <option value="$PROJECT_DIR$/worker.go" />
+        <option value="$PROJECT_DIR$/kafka/worker.go" />
+        <option value="$PROJECT_DIR$/producer.go" />
+        <option value="$PROJECT_DIR$/test.go" />
+        <option value="$PROJECT_DIR$/ggg.go" />
+        <option value="$PROJECT_DIR$/go-gin-app/controllers/handlers.article.go" />
+        <option value="$PROJECT_DIR$/go-gin-app/handlers.article.go" />
+        <option value="$PROJECT_DIR$/go-gin-app/handlers.user.go" />
+        <option value="$PROJECT_DIR$/go-gin-app/main.go" />
+        <option value="$PROJECT_DIR$/go-gin-app/routes/routes.go" />
+        <option value="$PROJECT_DIR$/mongopool/mongo.go" />
+        <option value="$PROJECT_DIR$/mongopool/mongoo.go" />
+        <option value="$PROJECT_DIR$/mongopool/mong.go" />
+        <option value="$PROJECT_DIR$/mongopool/mongodb.go" />
+        <option value="$PROJECT_DIR$/mgo.go" />
+        <option value="$PROJECT_DIR$/mongodb/mongodb.go" />
+        <option value="$PROJECT_DIR$/mongodb/mgo.go" />
+        <option value="$PROJECT_DIR$/mgo/mgo.go" />
+        <option value="$PROJECT_DIR$/machinery/tasks/tasks.go" />
+        <option value="$PROJECT_DIR$/machinery/main.go" />
+        <option value="$PROJECT_DIR$/machinery/send.go" />
+        <option value="$PROJECT_DIR$/echo1/gocelery/client/main.go" />
+        <option value="$PROJECT_DIR$/gocelery/client/main.go" />
+        <option value="$PROJECT_DIR$/gocelery/client/worker/main.go" />
+        <option value="$PROJECT_DIR$/gocelery/worker/work.go" />
+        <option value="$PROJECT_DIR$/test1.go" />
+        <option value="$PROJECT_DIR$/beego-demo/routers/router.go" />
+        <option value="$PROJECT_DIR$/beego-demo/models/roles.go" />
+        <option value="$PROJECT_DIR$/beego-demo/conf/app.conf" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="77" />
+    <option name="y" value="36" />
+    <option name="width" value="1366" />
+    <option name="height" value="658" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GIn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GIn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GIn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GIn" type="462c0819:PsiDirectoryNode" />
+              <item name="echo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GIn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GIn" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GIn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GIn" type="462c0819:PsiDirectoryNode" />
+              <item name="mgo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GIn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GIn" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gocelery" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/mgo" />
+      <recent name="$PROJECT_DIR$/mongodb" />
+      <recent name="$PROJECT_DIR$/go-gin-app/routes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Application.test1.go">
+    <configuration name="main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="GIn" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/gocelery/worker/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="GIn" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/gocelery/client/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="send.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="GIn" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/gocelery/client/send.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="test1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="GIn" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/test1.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="work.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="GIn" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/gocelery/worker/work.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Go Application.main.go (2)" />
+      <item index="1" class="java.lang.String" itemvalue="Go Application.main.go (3)" />
+      <item index="2" class="java.lang.String" itemvalue="Go Application.send.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Application.work.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Application.test1.go" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Go Application.test1.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Application.send.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Application.work.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Application.main.go (3)" />
+        <item index="4" class="java.lang.String" itemvalue="Go Application.main.go (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SFStoredExecutionPersistentComponent">
+    <executions>
+      <execution name="Default" sourceToExecute="" />
+    </executions>
+    <lastSelectedExecutionName>Default</lastSelectedExecutionName>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1366" height="651" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969034" sideWeight="0.49739778" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31588784" sideWeight="0.36951673" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6579439" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.317757" sideWeight="0.8654275" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3046729" sideWeight="0.63048327" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.49739778" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.49739778" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.49739778" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969034" sideWeight="0.49739778" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.49739778" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31588784" sideWeight="0.36951673" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.317757" sideWeight="0.8654275" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.49739778" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31588784" sideWeight="0.63048327" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6579439" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.49739778" order="12" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+      <path value="$PROJECT_DIR$/go-gin-app" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/broker.go" />
+    <entry file="file://$PROJECT_DIR$/worker.go" />
+    <entry file="file://$PROJECT_DIR$/producer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313">
+          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggg.go" />
+    <entry file="file://$PROJECT_DIR$/go-gin-app/templates/article.html" />
+    <entry file="file://$PROJECT_DIR$/go-gin-app/common_test.go" />
+    <entry file="file://$PROJECT_DIR$/go-gin-app/controllers/handlers.article.go" />
+    <entry file="file://$PROJECT_DIR$/go-gin-app/controllers/handlers.user.go" />
+    <entry file="file://$PROJECT_DIR$/go-gin-app/handlers.user.go" />
+    <entry file="file://$PROJECT_DIR$/go-gin-app/middleware.auth.go" />
+    <entry file="file://$PROJECT_DIR$/go-gin-app/main.go" />
+    <entry file="file://$PROJECT_DIR$/go-gin-app/routes/routes.go" />
+    <entry file="file://$PROJECT_DIR$/go-gin-app/handlers.article_test.go" />
+    <entry file="file://$PROJECT_DIR$/go-gin-app/handlers.article.go" />
+    <entry file="file://$PROJECT_DIR$/mongopool/mongo.go" />
+    <entry file="file://$PROJECT_DIR$/mongopool/mongoo.go" />
+    <entry file="file://$PROJECT_DIR$/mongopool/mong.go" />
+    <entry file="file://$PROJECT_DIR$/Gdemo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/dgrijalva/jwt-go/token.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgo/mgo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="41" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machinery/config.yml" />
+    <entry file="file://$PROJECT_DIR$/machinery/tasks/tasks.go" />
+    <entry file="file://$PROJECT_DIR$/machinery/sender.go" />
+    <entry file="file://$PROJECT_DIR$/machinery/main.go" />
+    <entry file="file://$PROJECT_DIR$/echo1/ginjwt.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/echo1/irisjwt.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/shicky/gocelery/gocelery.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gocelery/worker/work.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="52" column="47" lean-forward="true" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/shicky/gocelery/redis_broker.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="45" column="5" lean-forward="false" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/shicky/gocelery/redis_backend.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="35" column="54" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka/worker.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/mongodb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.go" />
+    <entry file="file://$PROJECT_DIR$/gocelery/client/send.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/req.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adsl.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bindform.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaghttp.go" />
+    <entry file="file://$PROJECT_DIR$/pool.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beego-demo/controllers/common.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beego-demo/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/astaxie/beego/config.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="114" column="4" lean-forward="false" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beego-demo/models/mymongo/mymongo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="e#17#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beego-demo/models/myredis/myredis.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beego-demo/models/common.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beego-demo/models/roles.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <marker date="1507384482000" expanded="true" signature="725:791" ph="INSERT INTO roles... " />
+            <marker date="1507384482000" expanded="true" signature="1354:1413" ph="SELECT id, n... roles" />
+            <marker date="1507384482000" expanded="true" signature="4024:4076" ph="UPDATE roles... " />
+            <marker date="1507384482000" expanded="true" signature="4494:4524" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beego-demo/models/roles_io.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beego-demo/models/mymysql/mymysql.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#17#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beego-demo/conf/app.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
